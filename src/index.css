@@ -31,3 +31,12 @@ body {
     background-color: #f9f9f9;
   }
 }
+ .btn{
+
+  height: 55 px;
+  width: 55px;
+  margin: ƒ5px;
+  display: inline-block;
+  font-size: 22px;
+  border-radius: 50px;
+ }
